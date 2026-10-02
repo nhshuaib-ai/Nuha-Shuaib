@@ -51,7 +51,6 @@ I enjoy combining analytical thinking with creativity to turn ideas into useful 
 
 ```text
 Machine Learning     █████████░  Developing
-Computer Vision      ███████░░░  Learning
 Data Science         ███████░░░  Learning
 AI Automation        ██████░░░░  Exploring
 UI/UX Design         ████████░░  Developing
