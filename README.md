@@ -1,5 +1,4 @@
-# Nuha Shuaib
-# Hi, I'm Nuha 👋
+# Hi, I'm Nuha Shuaib 👋
 
 ### 🎓 AI Student | 🤖 AI & Machine Learning | 🎨 Designer
 
